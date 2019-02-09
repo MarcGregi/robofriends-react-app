@@ -7,7 +7,7 @@ import 'tachyons';
 import {robots} from './robots'; 
 
 ReactDOM.render(
-            <CardList />
+            <CardList robots={robots}/>
 , document.getElementById('root'));
 
 
