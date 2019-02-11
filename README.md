@@ -14,6 +14,6 @@ You will also see any lint errors in the console.
 
 ### App Snapshot 👇 
 
-!["Screenshot of Robofriends Homepage"](https://github.com/MarcGregi/pebbl/blob/master/Docs/Pebbl%20timeline.png?raw=true)
-!["Screenshot of Robofriends Search Functionality"](https://github.com/MarcGregi/pebbl/blob/master/Docs/Pebbl%20home.png?raw=true)
+!["Screenshot of Robofriends Homepage"](https://github.com/MarcGregi/robofriends-react-app/blob/master/docs/robofriends-home.png)
+!["Screenshot of Robofriends Search Functionality"](https://github.com/MarcGregi/robofriends-react-app/blob/master/docs/robofriends-search.png)
 
