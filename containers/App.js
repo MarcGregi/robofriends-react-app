@@ -5,8 +5,6 @@ import './app.css';
 import Scroll from './Scroll'; 
 
 
-
-
 class App extends Component {
     constructor() {
         super()
@@ -56,6 +54,7 @@ class App extends Component {
     }
     
 }
+
 
 export default App; 
 
